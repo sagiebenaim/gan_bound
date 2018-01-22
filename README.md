@@ -37,7 +37,7 @@ python ./discogan_arch/gan_bound_per_sample_discogan.py --task_name=$DATASET_NAM
 DistanceGAN:
 python ./discogan_arch/gan_bound_per_sample_distancegan.py --task_name=$DATASET_NAME --pretrained_generator_A_path='./models/model_gen_A-10' --pretrained_generator_B_path='./models/model_gen_B-10' --pretrained_discriminator_A_path='./models/model_dis_A-10' --pretrained_discriminator_B_path='./models/model_dis_B-10' --one_sample_index=$SAMPLE_NUMBER
 
-### Options
+## Options
 Additional options can be found in ./discogan_arch/discogan_based_options/options.py
 
 For specific configuration see [DistanceGAN](https://github.com/sagiebenaim/DistanceGAN) and [DiscoGAN](https://github.com/SKTBrain/DiscoGAN)
