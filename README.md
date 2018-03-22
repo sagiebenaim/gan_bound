@@ -1,6 +1,6 @@
-# Maximally Distant Cross Domain Generators for Estimating Per-Sample Error
+# Estimating the Success of Unsupervised Image to Image Translation
 
-Pytorch implementation of "Maximally Distant Cross Domain Generators for Estimating Per-Sample Error" ([arxiv](https://arxiv.org/abs/1712.07886)).
+Pytorch implementation of "Estimating the Success of Unsupervised Image to Image Translation" ([arxiv](https://arxiv.org/abs/1712.07886)).
 
 Prerequisites
 --------------
