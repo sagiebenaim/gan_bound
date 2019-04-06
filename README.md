@@ -42,6 +42,17 @@ Additional options can be found in ./discogan_arch/discogan_based_options/option
 
 For specific configuration see [DistanceGAN](https://github.com/sagiebenaim/DistanceGAN) and [DiscoGAN](https://github.com/SKTBrain/DiscoGAN)
 
+## Reference
+If you found this code useful, please cite the following paper:
+```
+@inproceedings{Benaim2018EstimatingTS,
+  title={Estimating the Success of Unsupervised Image to Image Translation},
+  author={Sagie Benaim and Tomer Galanti and Lior Wolf},
+  booktitle={ECCV},
+  year={2018}
+}
+```
+
 ## Acknowledgements
 This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant ERC CoG 725974).
 
